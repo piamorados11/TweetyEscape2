@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: azure;
+}
+
+#gameContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    border: 4px solid black;
+    margin-top: 2%;
+    background-image: url(background.jpg);
+    background-size: cover;
+    width: 90vw; 
+    height: 90vh; 
+}

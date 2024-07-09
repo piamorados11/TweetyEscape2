@@ -1,0 +1,29 @@
+/- Buttons | event listener positions not aligned
+
+
+Bugs and modification needed:
+ - Start Button | The menu should close when start is clicked
+ - Game Over Screen | Attempts, best and score during ingame 
+   should not be visible
+ - New Best | It show even it resets
+ - Game Over Score | Do not show New Best under the score 
+   (Just show Score: or New Best:) either of the two 
+ - Game Start | Dont let TWEETY Fall is not showing
+
+Visual Plans
+ - Logo - it should wobble
+ - Buttons - curved edges and hover effect
+ - Game Over and Press Space - Blinking effect
+ - GAME OVER - make it bigger
+
+Technical:
+ - Genration of pipes
+ - collision
+
+Sound:
+ - POINT sound is skip counting
+ - FLAP sound is not accurate
+ - MUSIC too loud
+
+Optional:
+ - Add an option to CONTROL SOUND
